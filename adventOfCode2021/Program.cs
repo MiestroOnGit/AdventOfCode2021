@@ -5,7 +5,7 @@ using adventOfCode2021.solvers;
 using adventOfCode2021.Utils;
 
 var input = FileReader.ReadFileToIntCollection(@"..\..\..\2021input.txt");
-DayOneSonarSweep solver = new DayOneSonarSweep(3);
+DayOneSonarSweep solver = new(3);
 var solution = solver.Solve(input);
 
 Console.WriteLine(solution);
