@@ -2,7 +2,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 
-namespace adventOfCode2021.Utils
+namespace FileLoader
 {
     public class FileReader
     {

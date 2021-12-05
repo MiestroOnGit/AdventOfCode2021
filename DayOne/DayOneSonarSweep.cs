@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace adventOfCode2021.solvers
+namespace DayOne.solvers
 {
     public class DayOneSonarSweep
     {
